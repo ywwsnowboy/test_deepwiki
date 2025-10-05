@@ -1,0 +1,52 @@
+.idea/
+
+.ipynb_checkpoints/
+
+__pycache__/
+
+.vscode/
+.vs/
+Debug/
+/Debug
+x64/
+/x64
+
+build/
+
+/build
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+*build*/
+
+# Python stuff
+*.pyc
+venv/
