@@ -25,3 +25,13 @@
 *.webp filter=lfs diff=lfs merge=lfs -text
 *.mat filter=lfs diff=lfs merge=lfs -text
 *.vsdx filter=lfs diff=lfs merge=lfs -text
+*.ris filter=lfs diff=lfs merge=lfs -text
+*.graphml filter=lfs diff=lfs merge=lfs -text
+*.list filter=lfs diff=lfs merge=lfs -text
+*.net filter=lfs diff=lfs merge=lfs -text
+*.clu filter=lfs diff=lfs merge=lfs -text
+*.vec filter=lfs diff=lfs merge=lfs -text
+*.emmx filter=lfs diff=lfs merge=lfs -text
+*.ngm filter=lfs diff=lfs merge=lfs -text
+*.fig filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
